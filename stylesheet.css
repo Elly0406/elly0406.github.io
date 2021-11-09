@@ -5,7 +5,7 @@ h1{
     position: absolute;top: 50px; left: 435px;
     font-size: 30px;
     font-family: 'Mochiy Pop One', sans-serif;
-    color:gold;
+    color:white;
 }
 #pic1{
     position: absolute;top: 1px; left: 22px;
@@ -17,13 +17,6 @@ h1{
 #pic3{
     position: absolute;top: 1px; left: 1114px;
 
-}
-
-p{
-    position: absolute;top: 300px; left: 500px;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    color:white
 }
 #work1{
     position: absolute; top: 550px; left: 625px;
@@ -72,4 +65,16 @@ p{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color:mediumspringgreen
+}
+h2{
+    position: absolute; top: 1350px; left: 626px;
+    font-size: 25px;
+    font-family: 'Mochiy Pop One', sans-serif;
+    color:white;
+}
+p{
+    position: absolute; top: 1450px; left: 348px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white
 }
