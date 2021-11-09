@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+h1{
+    position: absolute;top: 50px; left: 435px;
+    font-size: 30px;
+    font-family: 'Mochiy Pop One', sans-serif;
+    color:gold;
+}
+#pic1{
+    position: absolute;top: 1px; left: 22px;
+}
+#pic2{
+    position: absolute;top: 150px; left: 440px;
+
+}
+#pic3{
+    position: absolute;top: 1px; left: 1114px;
+
+}
+
+p{
+    position: absolute;top: 300px; left: 500px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white
+}
+#work1{
+    position: absolute; top: 550px; left: 625px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+}
+#work2{
+    position: absolute; top: 650px; left: 638px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:orange;
+}
+#work3{
+    position: absolute; top: 750px; left: 658px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:yellow
+}
+#work4{
+    position: absolute; top: 850px; left: 632px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:green
+}
+#work5{
+    position: absolute; top: 950px; left: 638px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue
+}
+#work6{
+    position: absolute; top: 1050px; left: 635px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:indigo
+}
+#work7{
+    position: absolute; top: 1150px; left: 602px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:violet;
+}
+#work8{
+    position: absolute; top: 1250px; left: 585px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:mediumspringgreen
+}
